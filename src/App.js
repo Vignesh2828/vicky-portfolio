@@ -6,7 +6,7 @@ import Service from "./Routes/Service";
 import Contact from "./Routes/Contact";
 
 export default function App() {
-  return (
+  return (  
     <div className="App">
       <HashRouter>
       <Routes>
